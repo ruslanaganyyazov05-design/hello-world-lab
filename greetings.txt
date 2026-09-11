@@ -1,0 +1,11 @@
+# Приветствия на разных языках
+
+Дополнительный файл, добавленный в ветви feature-greeting
+в рамках лабораторной работы №2.
+
+- Русский:    Привет, мир!
+- English:    Hello, world!
+- Deutsch:    Hallo, Welt!
+- Français:   Bonjour, le monde!
+- Español:    ¡Hola, mundo!
+- 日本語:      こんにちは、世界！
